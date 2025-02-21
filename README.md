@@ -1,5 +1,7 @@
 # Maji Ndogo Water Project (Part II)
 
+## Clustering Data to Unveil Maji Ndogo's Water Crisis
+
 This is the second part of the Maji Ndogo Water Project, focusing on clustering and analyzing data to identify key patterns in water access, queue times, employee activities, and water source reliability. By cleaning and analyzing this data, we aim to uncover insights that will help address the water crisis in Maji Ndogo.
 
 ## Table of Contents
